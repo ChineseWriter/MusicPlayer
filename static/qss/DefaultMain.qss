@@ -1,0 +1,3 @@
+#CentralWidget {
+  border-radius: 5px;
+}

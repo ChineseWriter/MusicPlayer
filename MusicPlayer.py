@@ -5,5 +5,17 @@
 # @Author    :Amundsen Severus Rubeus Bjaaland
 
 
+import sys
+
+from PyQt5.QtWidgets import QApplication
+
+import Source_rc
+from windows.Controller import MainWeight
+
+
 if __name__ == "__main__":
-    run_code = 0
+    app = QApplication(sys.argv)
+    MainApplication = MainWeight()
+    MainApplication.show()
+    sys.exit(app.exec_())
+

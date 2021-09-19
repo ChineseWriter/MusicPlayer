@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>static/image/wallpaper/01.jpg</file>
+        <file>static/image/wallpaper/03.jpg</file>
+        <file>static/image/wallpaper/04.jpg</file>
+        <file>static/image/wallpaper/05.jpg</file>
+        <file>static/image/wallpaper/06.jpg</file>
+        <file>static/image/wallpaper/07.jpg</file>
+        <file>static/image/wallpaper/08.jpg</file>
+        <file>static/image/wallpaper/09.jpg</file>
+        <file>static/image/wallpaper/10.jpg</file>
+        <file>static/image/wallpaper/11.jpg</file>
+        <file>static/image/wallpaper/12.jpg</file>
+        <file>static/image/wallpaper/13.jpg</file>
+        <file>static/image/wallpaper/14.jpg</file>
+        <file>static/image/wallpaper/15.jpg</file>
+        <file>static/image/wallpaper/16.jpg</file>
+        <file>static/image/wallpaper/17.jpg</file>
+        <file>static/image/wallpaper/18.jpg</file>
+        <file>static/image/wallpaper/19.jpg</file>
+        <file>static/image/wallpaper/20.jpg</file>
+        <file>static/image/wallpaper/21.jpg</file>
+        <file>static/image/wallpaper/22.jpg</file>
+        <file>static/image/wallpaper/23.jpg</file>
+        <file>static/image/wallpaper/24.jpg</file>
+        <file>static/image/logo.png</file>
+    </qresource>
+</RCC>
