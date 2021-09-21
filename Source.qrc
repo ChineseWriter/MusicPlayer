@@ -24,5 +24,8 @@
         <file>static/image/wallpaper/23.jpg</file>
         <file>static/image/wallpaper/24.jpg</file>
         <file>static/image/logo.png</file>
+        <file>static/image/close.png</file>
+        <file>static/image/minimize.png</file>
+        <file>static/image/search.png</file>
     </qresource>
 </RCC>

@@ -1,3 +1,3 @@
 {
-    "files": ["windows/Player.ui","static/qss/DefaultMain.qss","windows/Main.ui","Source.qrc"]
+    "files": ["windows/Main.ui","static/qss/DefaultMain.qss","Source.qrc"]
 }
